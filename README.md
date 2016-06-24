@@ -9,4 +9,4 @@ mEncoder is a module made for the ASM5601 magnetic encoder with a focas on price
 ### Panalised Pictures
 
 ![](https://raw.githubusercontent.com/biosafetylvl5/mEncoder/master/mencoder-panelized.png)
-![](https://raw.githubusercontent.com/biosafetylvl5/mEncoder/master/mencoder-panelized-brd1.svg)
+![](https://raw.githubusercontent.com/biosafetylvl5/mEncoder/master/mencoder-panelized-brd1.png)
