@@ -1,6 +1,6 @@
 # ![mEncoder](https://raw.githubusercontent.com/biosafetylvl5/mEncoder/master/mencoder.png)
 
-mEncoder is a module made for the ASM5601 magnetic encoder with a focas on price and ease of assembly. You can view the BOM here. One board should cost 1.2156$ when made in quantity. (Exluding the ASM5601) <!-- TODO: add link here -->
+mEncoder is a module made for the ASM5601 magnetic encoder with a focas on price and ease of assembly. You can view the BOM [here](https://github.com/biosafetylvl5/mEncoder/blob/master/mencoderPrices.ods). One board should cost 1.2156$ when made in quantity. (Exluding the ASM5601)
 
 # Pictures
 ![mEncoder Front](https://raw.githubusercontent.com/biosafetylvl5/mEncoder/master/mencoder_board.png)
